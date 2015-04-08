@@ -1,0 +1,14039 @@
+teste
+  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ STAAACK 0
+ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CASO 0 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXlinhas 6
+colunas 1
+camadas 2
+LINHA 0 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 1 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 2 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 3 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 4 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 5 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 1 
+U 1
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 1  1 
+ in while 
+c1 
+ 
+
+LINHA 0 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 1 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 2 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 3 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 4 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 5 
+
+ in while 
+c1 0 
+D 0
+
+ in while 
+c1 2 
+U 2
+
+ in while 
+c1 , 
+
+ COLUNA 0 
+ 2  2 
+ in while 
+c1 
+ 
+
+LINHA 0 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ in while 
+c1 
+ 
+
+ FIIIM LOAAAAD 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 12.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 1.200000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 2.400000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 24.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 2.400000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 4.800000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 36.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 3.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 7.200000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 48.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 4.800000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 9.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 60.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 6.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 12.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 72.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 7.200000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 14.400001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 84.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 8.400001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 16.800001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 96.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 9.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 19.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 108.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 10.800000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 21.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 120.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 12.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 24.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 132.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 13.200000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 26.400000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 144.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 14.400001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 28.800001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 156.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 15.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 31.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 168.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 16.800001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 33.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 180.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 18.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 36.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 192.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 19.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 38.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 204.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 20.400000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 40.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 216.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 21.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 43.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 228.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 22.800001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 45.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 240.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 24.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 48.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 252.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 25.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 50.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 264.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 26.400000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 52.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 276.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 27.600000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 55.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 288.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 28.800001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 57.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 300.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 30.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 60.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 312.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 31.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 62.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 324.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 32.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 64.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 336.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 33.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 67.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 348.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 34.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 69.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 360.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 36.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 72.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 372.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 37.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 74.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 384.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 38.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 76.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 396.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 39.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 79.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 408.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 40.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 81.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 420.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 42.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 84.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 432.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 43.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 86.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 444.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 44.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 88.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 456.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 45.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 91.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 468.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 46.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 93.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 480.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 48.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 96.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 492.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 49.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 98.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 504.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 50.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 100.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 516.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 51.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 103.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 528.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 52.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 105.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 540.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 54.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 108.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 552.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 55.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 110.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 564.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 56.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 112.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 576.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 57.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 115.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 588.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 58.799999 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 117.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 600.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 60.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 120.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 612.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 61.200001 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 122.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 624.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 62.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 124.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 636.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 63.600002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 127.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 648.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 64.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 129.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 660.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 66.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 132.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 672.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 67.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 134.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 684.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 68.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 136.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 696.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 69.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 139.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 708.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 70.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 141.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 720.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 72.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 144.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 732.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 73.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 146.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 744.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 74.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 148.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 756.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 75.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 151.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 768.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 76.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 153.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 780.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 78.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 156.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 792.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 79.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 158.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 804.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 80.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 160.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 816.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 81.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 163.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 828.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 82.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 165.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 840.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 84.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 168.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 852.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 85.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 170.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 864.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 86.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 172.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 876.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 87.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 175.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 888.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 88.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 177.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 900.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 90.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 180.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 912.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 91.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 182.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 924.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 92.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 184.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 936.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 93.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 187.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 948.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 94.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 189.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 960.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 96.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 192.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 972.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 97.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 194.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 984.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 98.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 196.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 996.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 99.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 199.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1008.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 100.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 201.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1020.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 102.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 204.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1032.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 103.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 206.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1044.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 104.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 208.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1056.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 105.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 211.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1068.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 106.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 213.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1080.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 108.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 216.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1092.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 109.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 218.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1104.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 110.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 220.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1116.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 111.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 223.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1128.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 112.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 225.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1140.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 114.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 228.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1152.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 115.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 230.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1164.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 116.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 232.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1176.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 117.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 235.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1188.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 118.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 237.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1200.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 120.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 240.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1212.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 121.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 242.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1224.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 122.400002 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 244.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove e borus na msma altura 
+
+ CAMERAX DEBUG 1236.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 123.599998 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 247.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+keydown
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1248.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 124.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 249.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1260.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 126.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 252.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1272.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 127.200005 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 254.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1284.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 128.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 256.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1296.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 129.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 259.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1308.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 130.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 261.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1320.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 132.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 264.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1332.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 133.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 266.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1344.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 134.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 268.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1356.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 135.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 271.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+keyup
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1368.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 136.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 273.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1380.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 138.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 276.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1392.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 139.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 278.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1404.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 140.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 280.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1416.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 141.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 283.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1428.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 142.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 285.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1440.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 144.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 288.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1452.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 145.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 290.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1464.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 146.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 292.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1476.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 147.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 295.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1488.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 148.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 297.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1500.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 150.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 300.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1512.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 151.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 302.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1524.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 152.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 304.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1536.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 153.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 307.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1548.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 154.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 309.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1560.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 156.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 312.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1572.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 157.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 314.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1584.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 158.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 316.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1596.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 159.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 319.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1608.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 160.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 321.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1620.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 162.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 324.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1632.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 163.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 326.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais alto q borus 
+
+ CAMERAX DEBUG 1644.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 164.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 328.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+keydown
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.001920
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1656.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 165.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 331.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.076920
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1668.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 166.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 333.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.078840
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1680.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 168.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 336.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.153840
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1692.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 169.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 338.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.154920
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1704.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 170.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 340.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.239190
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1716.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 171.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 343.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.239670
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1728.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 172.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 345.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.314670
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1740.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 174.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 348.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.315150
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1752.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 175.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 350.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.399420
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1764.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 176.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 352.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.400170
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1776.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 177.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 355.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+
+ VELOCIDADE y 0.466440
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1788.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 178.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 357.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+keyup
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1800.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 180.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 360.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1812.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 181.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 362.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1824.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 182.400009 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 364.800018 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1836.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 183.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 367.200012 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1848.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 184.800003 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 369.600006 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1860.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 186.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 372.000000 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+ 
+ FIIIM WHILE 
+
+ COMECO WHILE 
+ 
+ UPDATEE
+ 
+ PROCESS EVENTS
+ 
+ FIIM PROCESS EVENTS
+ 
+ dove mais baixo q borus 
+
+ CAMERAX DEBUG 1872.000000
+ 
+ CHECK COLLISION 
+
+ estado 0 
+
+ ENTROU NO RENDER
+ 
+ imax 6 
+
+ jmax 1 
+ 
+ camx 187.199997 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1496 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1870 
+ 
+ fator = 0 
+  
+ imax 6 
+
+ jmax 1 
+ 
+ camx 374.399994 
+
+ camy 0.000000 
+
+ camerax mod 0
+
+ WIDTH * i = 0 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 374 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 748 
+ 
+ fator = 0 
+ 
+ WIDTH * i = 1122 
+ 
+ fator = 0 
+ 

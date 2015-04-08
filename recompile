@@ -1,0 +1,3 @@
+#
+g++ -c *.cpp -Wall
+g++ -o granja *.o -lSDL -lSDL_image -lSDL_gfx -lSDL_ttf -lSDL_mixer -lsmpeg
